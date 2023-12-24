@@ -1,8 +1,6 @@
 # next-init
 Base de un proyecto next (Componentes, rutas, test y animaciones)
 
-# Primeros pasos
-
 ## Iniciar proyecto
 
 npx create-next-app@latest
