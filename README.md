@@ -64,5 +64,9 @@ Si falla, copia los archivos jest.config.js y jest.setup.js del repo y añadelos
 
 Más info:  https://github.com/vercel/next.js/tree/canary/examples/with-jest
 
+## Ejercicio
+
+Intenta pasar el test prueba.test.js
+
 
 
