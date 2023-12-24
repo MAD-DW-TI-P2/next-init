@@ -41,7 +41,8 @@ export default function Home() {
         />
       </div>
 
-      <Link href="/invitations">Invitaciones</Link>
+      <Link href="/invitations">Componente con ruteo: Invitaciones</Link>
+      <h1>Prueba para test</h1>
       <Animation/>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
